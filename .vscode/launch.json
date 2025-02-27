@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2296",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2296",
+            "preLaunchTask": "swift: Build Debug p2296"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2296",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2296",
+            "preLaunchTask": "swift: Build Release p2296"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0873",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0873",
+            "preLaunchTask": "swift: Build Debug p0873"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0873",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0873",
+            "preLaunchTask": "swift: Build Release p0873"
+        }
+    ]
+}
