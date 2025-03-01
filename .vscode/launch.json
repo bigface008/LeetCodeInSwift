@@ -5,6 +5,24 @@
             "request": "launch",
             "args": [],
             "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2460",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2460",
+            "preLaunchTask": "swift: Build Debug p2460"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2460",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2460",
+            "preLaunchTask": "swift: Build Release p2460"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
             "name": "Debug p2296",
             "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2296",
             "preLaunchTask": "swift: Build Debug p2296"
