@@ -53,6 +53,528 @@
             "name": "Release p0873",
             "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0873",
             "preLaunchTask": "swift: Build Release p0873"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0104",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0104",
+            "preLaunchTask": "swift: Build Debug p0104"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0104",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0104",
+            "preLaunchTask": "swift: Build Release p0104"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0212",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0212",
+            "preLaunchTask": "swift: Build Debug p0212"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0212",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0212",
+            "preLaunchTask": "swift: Build Release p0212"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0230",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0230",
+            "preLaunchTask": "swift: Build Debug p0230"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0230",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0230",
+            "preLaunchTask": "swift: Build Release p0230"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0239",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0239",
+            "preLaunchTask": "swift: Build Debug p0239"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0239",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0239",
+            "preLaunchTask": "swift: Build Release p0239"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0359",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0359",
+            "preLaunchTask": "swift: Build Debug p0359"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0359",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0359",
+            "preLaunchTask": "swift: Build Release p0359"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0443",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0443",
+            "preLaunchTask": "swift: Build Debug p0443"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0443",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0443",
+            "preLaunchTask": "swift: Build Release p0443"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0547",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0547",
+            "preLaunchTask": "swift: Build Debug p0547"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0547",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0547",
+            "preLaunchTask": "swift: Build Release p0547"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p1129",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p1129",
+            "preLaunchTask": "swift: Build Debug p1129"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p1129",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p1129",
+            "preLaunchTask": "swift: Build Release p1129"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p1854",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p1854",
+            "preLaunchTask": "swift: Build Debug p1854"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p1854",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p1854",
+            "preLaunchTask": "swift: Build Release p1854"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2012",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2012",
+            "preLaunchTask": "swift: Build Debug p2012"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2012",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2012",
+            "preLaunchTask": "swift: Build Release p2012"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2156",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2156",
+            "preLaunchTask": "swift: Build Debug p2156"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2156",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2156",
+            "preLaunchTask": "swift: Build Release p2156"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2269",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2269",
+            "preLaunchTask": "swift: Build Debug p2269"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2269",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2269",
+            "preLaunchTask": "swift: Build Release p2269"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p3305",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p3305",
+            "preLaunchTask": "swift: Build Debug p3305"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p3305",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p3305",
+            "preLaunchTask": "swift: Build Release p3305"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p3306",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p3306",
+            "preLaunchTask": "swift: Build Debug p3306"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p3306",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p3306",
+            "preLaunchTask": "swift: Build Release p3306"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug uber_p1",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/uber_p1",
+            "preLaunchTask": "swift: Build Debug uber_p1"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release uber_p1",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/uber_p1",
+            "preLaunchTask": "swift: Build Release uber_p1"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug envoy",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/envoy",
+            "preLaunchTask": "swift: Build Debug envoy"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release envoy",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/envoy",
+            "preLaunchTask": "swift: Build Release envoy"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p0059",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p0059",
+            "preLaunchTask": "swift: Build Debug p0059"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p0059",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p0059",
+            "preLaunchTask": "swift: Build Release p0059"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2161",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2161",
+            "preLaunchTask": "swift: Build Debug p2161"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2161",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2161",
+            "preLaunchTask": "swift: Build Release p2161"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2206",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2206",
+            "preLaunchTask": "swift: Build Debug p2206"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2206",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2206",
+            "preLaunchTask": "swift: Build Release p2206"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2226",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2226",
+            "preLaunchTask": "swift: Build Debug p2226"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2226",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2226",
+            "preLaunchTask": "swift: Build Release p2226"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2272",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2272",
+            "preLaunchTask": "swift: Build Debug p2272"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2272",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2272",
+            "preLaunchTask": "swift: Build Release p2272"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2529",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2529",
+            "preLaunchTask": "swift: Build Debug p2529"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2529",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2529",
+            "preLaunchTask": "swift: Build Release p2529"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2560",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2560",
+            "preLaunchTask": "swift: Build Debug p2560"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2560",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2560",
+            "preLaunchTask": "swift: Build Release p2560"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p2594",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p2594",
+            "preLaunchTask": "swift: Build Debug p2594"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p2594",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p2594",
+            "preLaunchTask": "swift: Build Release p2594"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p3110",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p3110",
+            "preLaunchTask": "swift: Build Debug p3110"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p3110",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p3110",
+            "preLaunchTask": "swift: Build Release p3110"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p3340",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p3340",
+            "preLaunchTask": "swift: Build Debug p3340"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p3340",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p3340",
+            "preLaunchTask": "swift: Build Release p3340"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p3355",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p3355",
+            "preLaunchTask": "swift: Build Debug p3355"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p3355",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p3355",
+            "preLaunchTask": "swift: Build Release p3355"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug p3356",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/p3356",
+            "preLaunchTask": "swift: Build Debug p3356"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release p3356",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/p3356",
+            "preLaunchTask": "swift: Build Release p3356"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Debug nextdoor_p1",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/debug/nextdoor_p1",
+            "preLaunchTask": "swift: Build Debug nextdoor_p1"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LeetCodeInSwift}",
+            "name": "Release nextdoor_p1",
+            "program": "${workspaceFolder:LeetCodeInSwift}/.build/release/nextdoor_p1",
+            "preLaunchTask": "swift: Build Release nextdoor_p1"
         }
     ]
 }
